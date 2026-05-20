@@ -11,6 +11,7 @@ Vrijeme se prikazuje na LCD displayu u minutama, sekundama i stotinkama.
 ## Screenshot
 
 ![image](image.png)
+Prikaz izgleda stoperice.
 
 ## Tehnologije
 - Flowcode
