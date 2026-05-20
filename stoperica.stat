@@ -1,0 +1,22 @@
+// SourceBoost Linker Function Resource Usage Dump
+
+#GLOBAL:"global",line = 0,ram = 51.0,rom = 0;
+__div_16_16(unsigned short,unsigned short):"E:\Prg\compiler.trunk\picantc\libc\div.c",line = 116,ram = 9.0,rom = 31;
+Wdt_Delay_Ms(unsigned char):"C:\Program Files (x86)\Flowcode\v5\CAL\PIC\PIC_CAL_Delay.c",line = 118,ram = 2.0,rom = 11;
+FCD_LCDDisplay0_RawSend(unsigned char,unsigned char):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 378,ram = 3.0,rom = 65;
+FCD_LCDDisplay0_Start(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 428,ram = 0.0,rom = 85;
+FCD_LCDDisplay0_Cursor(unsigned char,unsigned char):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 498,ram = 2.0,rom = 30;
+FCD_LCDDisplay0_PrintNumber(signed short):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 529,ram = 7.0,rom = 238;
+FCD_LCDDisplay0_PrintString(unsigned char*,unsigned char):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 587,ram = 4.0,rom = 28;
+FCD_SWITCH0_ReadState(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 705,ram = 2.0,rom = 13;
+FCD_SWITCH1_ReadState(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 836,ram = 2.0,rom = 13;
+FCD_SWITCH2_ReadState(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 967,ram = 2.0,rom = 13;
+main(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 1099,ram = 11.0,rom = 765;
+interrupt(void):"C:\Users\Ucenik\Desktop\stoperica\stoperica.c",line = 1958,ram = 0.0,rom = 11;
+delay_10us(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 14;
+delay_ms(unsigned char):"NoSourceFile",line = 0,ram = 0.0,rom = 40;
+_startup(void):"NoSourceFile",line = 0,ram = 0.0,rom = 55;
+#HEAP_BLOCK: 0, 272, 111;
+#HEAP_BLOCK: 1, 400, 96;
+#HEAP_BLOCK: 2, 160, 80;
+#HEAP_BLOCK: 3, 107, 5;
