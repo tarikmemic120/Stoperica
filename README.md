@@ -1,9 +1,18 @@
 # Stoperica
 
-Simulacija rada stoperice urađena u Flowcode-u.
+Digitalna stoperica izrađena u Flowcode-u koristeci 4x20 LCD display i 3 tastera.
+
+Funkcije:
+- START pokretanje vremena
+- STOP zaustavljanje štoperice
+- RESET vracanje vremena na 00:00:00
+
+Vrijeme se prikazuje na LCD displayu u minutama i sekundama.
 
 ## Tehnologije
 - Flowcode
+- LCD 4x20
+- Tasteri (3 buttona)
 - PIC mikrokontroler
 
 ## Autor
