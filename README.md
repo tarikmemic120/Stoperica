@@ -8,6 +8,9 @@ Funkcije:
 - RESET vracanje vremena na 00:00:00
 
 Vrijeme se prikazuje na LCD displayu u minutama, sekundama i stotinkama.
+## Screenshot
+
+![image](image.png)
 
 ## Tehnologije
 - Flowcode
