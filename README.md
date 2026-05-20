@@ -1,2 +1,9 @@
 # Stoperica
-Projekat napravljen u Flowcode-u
+
+Simulacija rada stoperice urađena u Flowcode-u.
+
+## Tehnologije
+- Flowcode
+
+## Autor
+Tarik Memic
