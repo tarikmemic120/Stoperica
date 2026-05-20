@@ -7,7 +7,7 @@ Funkcije:
 - STOP zaustavljanje štoperice
 - RESET vracanje vremena na 00:00:00
 
-Vrijeme se prikazuje na LCD displayu u minutama i sekundama.
+Vrijeme se prikazuje na LCD displayu u minutama, sekundama i stotinkama.
 
 ## Tehnologije
 - Flowcode
